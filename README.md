@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on anything awesome!
 - 📫 Reach me at idj.idejong@gmail.com
-- Behance Profile: https://behance.net/iwandejong
+- Creative Profile: https://instagram.com/milfordstudio
 - WEBSITE DROPPING SOON @ http://iwandejong.com
 
 <!---
