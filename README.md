@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on anything awesome!
 - 📫 Reach me at idj.idejong@gmail.com
 - Creative Profile: https://instagram.com/milfordstudio
+- SKILLSET: https://stackshare.io/iwandejong/myskillset/main
+- Available for Hire! (= currently Matrick)
 - WEBSITE DROPPING SOON @ http://iwandejong.com
 
 <!---
