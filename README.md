@@ -1,8 +1,6 @@
 - 🌱 I’m currently debugging
 - 📫 Reach me at idj.idejong@gmail.com
 - Creative Profile: https://instagram.com/milfordstudio
-- SKILLSET: https://stackshare.io/iwandejong/myskillset/main
-- Available for Hire!
 - WEBSITE @ https://iwandejong.com
 
 <!---
