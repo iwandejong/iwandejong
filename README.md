@@ -8,10 +8,14 @@
 <p align='center'>
     🔗 More links<br/><br/>
     <a href="https://www.linkedin.com/in/iwandejong/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-      <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white"/><br>
-      <a href="https://wakatime.com/@47623a7b-3423-456c-8fc6-cbf861f9eb2d"><img src="https://wakatime.com/badge/user/47623a7b-3423-456c-8fc6-cbf861f9eb2d.svg"/></a>
+    <a href="https://wakatime.com/@47623a7b-3423-456c-8fc6-cbf861f9eb2d">
+      <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white"/>
+    </a><br>
+    <a href="https://wakatime.com/@47623a7b-3423-456c-8fc6-cbf861f9eb2d">
+      <img src="https://wakatime.com/badge/user/47623a7b-3423-456c-8fc6-cbf861f9eb2d.svg"/>
+    </a>
 </p>
 
 <p align='center'>
@@ -20,6 +24,6 @@
 
 <p align='center'>
   2nd year Computer Science student at University of Pretoria with interests in Data Science and Statistics<br>
-  Available for small jobs, email me at idj.idejong@gmail.com
+  Available for small jobs, email me at <a href="mailto:idj.idejong@gmail.com">idj.idejong@gmail.com</a>
 </p>
 
