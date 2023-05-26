@@ -24,9 +24,10 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=iwandejong&theme=transparent&show-icons=true&count_private=true&hide_border=true"></a>
+  ![iwandejong github-trophies](https://stats.hyochan.dev/api/github-trophies?login=iwandejong)
 </p>
 
-![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=iwandejong)
+
 
 <p align='center'>
   2nd year Computer Science student at University of Pretoria with interests in Data Science and Statistics<br>
