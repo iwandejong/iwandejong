@@ -1,4 +1,25 @@
-![image](https://github-readme-activity-graph.cyclic.app/graph?username=iwandejong)
-[![wakatime](https://wakatime.com/badge/user/47623a7b-3423-456c-8fc6-cbf861f9eb2d.svg)](https://wakatime.com/@47623a7b-3423-456c-8fc6-cbf861f9eb2d)
-- 2nd year Computer Science student at University of Pretoria with interests in Data Science and Statistics
-- Available for small jobs, email me at idj.idejong@gmail.com
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+</p>
+
+<p align='center'>
+    🔗 More links<br/><br/>
+    <a href="https://www.linkedin.com/in/iwandejong/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+      <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white"/><br>
+      <a href="https://wakatime.com/@47623a7b-3423-456c-8fc6-cbf861f9eb2d"><img src="https://wakatime.com/badge/user/47623a7b-3423-456c-8fc6-cbf861f9eb2d.svg"/></a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=iwandejong"></a>
+</p>
+
+<p align='center'>
+  2nd year Computer Science student at University of Pretoria with interests in Data Science and Statistics<br>
+  Available for small jobs, email me at idj.idejong@gmail.com
+</p>
+
