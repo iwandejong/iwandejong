@@ -26,8 +26,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=iwandejong&theme=transparent&show-icons=true&count_private=true&hide_border=true"></a>
 </p>
 
-  ![iwandejong github-trophies](https://stats.hyochan.dev/api/github-trophies?login=iwandejong)
-
 <p align='center'>
   2nd year Computer Science student at University of Pretoria with interests in Data Science and Statistics<br>
   Available for small jobs, email me at <a href="mailto:idj.idejong@gmail.com">idj.idejong@gmail.com</a>
