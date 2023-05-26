@@ -1,3 +1,11 @@
+<h1 align='center'>
+  Iwan de Jong
+</h1>
+
+<p align='center'>
+  A Computer Science somophore interested in Data Science and AI.
+</p>
+
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
