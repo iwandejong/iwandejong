@@ -1,10 +1,6 @@
-<h1 align='center'>
-  Iwan de Jong
-</h1>
-
-<p align='center'>
-  A Computer Science somophore interested in Data Science and AI.
-</p>
+<h2 align='center'>
+  Welcome to my Github!
+</h2>
 
 <p align='center'>
   💻 My workspace<br/><br/>
