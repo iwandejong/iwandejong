@@ -19,8 +19,6 @@
     </a><br>
     <a href="https://wakatime.com/@47623a7b-3423-456c-8fc6-cbf861f9eb2d">
       <img src="https://wakatime.com/badge/user/47623a7b-3423-456c-8fc6-cbf861f9eb2d.svg"/>
-    </a><a href="https://iwandejong.co.za">
-      <img src="https://img.shields.io/badge/Visit%20My%20Website_iwandejong.co.za-2D42CE"/>
     </a>
 </p>
 
@@ -30,6 +28,9 @@
 
 <p align='center'>
   2nd year Computer Science student at University of Pretoria with interests in Data Science and Statistics<br>
-  Available for small jobs, email me at <a href="mailto:idj.idejong@gmail.com">idj.idejong@gmail.com</a>
+  Available for small jobs, email me at <a href="mailto:idj.idejong@gmail.com">idj.idejong@gmail.com</a><br>
+  <a href="https://iwandejong.co.za">
+      <img src="https://img.shields.io/badge/iwandejong.co.za-2D42CE"/>
+    </a>
 </p>
 
