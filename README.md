@@ -28,9 +28,9 @@
 
 <p align='center'>
   2nd year Computer Science student at University of Pretoria with interests in Data Science and Statistics<br>
-  Available for small jobs, email me at <a href="mailto:idj.idejong@gmail.com">idj.idejong@gmail.com</a><br>
+  Available for small jobs, email me at <a href="mailto:idj.idejong@gmail.com">idj.idejong@gmail.com</a><br><br>
   <a href="https://iwandejong.co.za">
-      <img src="https://img.shields.io/badge/iwandejong.co.za-2D42CE"/>
-    </a>
+    <img src="https://img.shields.io/badge/iwandejong.co.za-2D42CE"/>
+  </a>
 </p>
 
