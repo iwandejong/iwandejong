@@ -16,12 +16,11 @@
     </a>
     <a href="https://wakatime.com/@47623a7b-3423-456c-8fc6-cbf861f9eb2d">
       <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white"/>
-    </a>
-    <a href="https://wakatime.com/@47623a7b-3423-456c-8fc6-cbf861f9eb2d">
-      <img src="https://img.shields.io/badge/Visit%20My%20Website-2D42CE"/>
     </a><br>
     <a href="https://wakatime.com/@47623a7b-3423-456c-8fc6-cbf861f9eb2d">
       <img src="https://wakatime.com/badge/user/47623a7b-3423-456c-8fc6-cbf861f9eb2d.svg"/>
+    </a><a href="https://wakatime.com/@47623a7b-3423-456c-8fc6-cbf861f9eb2d">
+      <img src="https://img.shields.io/badge/Visit%20My%20Website-2D42CE"/>
     </a>
 </p>
 
