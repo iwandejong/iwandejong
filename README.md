@@ -14,6 +14,7 @@
     <a href="https://www.linkedin.com/in/iwandejong/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    ![](https://dcbadge.vercel.app/api/shield/USERID)
     <a href="https://wakatime.com/@47623a7b-3423-456c-8fc6-cbf861f9eb2d">
       <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white"/>
     </a><br>
