@@ -27,6 +27,10 @@
 </p>
 
 <p align='center'>
+  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwandejong&theme=nord_dark"></a>
+</p>
+
+<p align='center'>
   2nd year Computer Science student at University of Pretoria with interests in Data Science and Statistics<br>
   Available for small jobs, email me at <a href="mailto:idj.idejong@gmail.com">idj.idejong@gmail.com or</a><br><br>
   <a href="https://iwandejong.co.za">
