@@ -23,11 +23,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=iwandejong&theme=transparent&show-icons=true&count_private=true&hide_border=true"></a>
-</p>
-
-<p align='center'>
-  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwandejong&theme=nord_dark"></a>
+  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwandejong&theme=github_dark"></a>
 </p>
 
 <p align='center'>
