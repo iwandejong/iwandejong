@@ -20,6 +20,9 @@
     <a href="https://wakatime.com/@47623a7b-3423-456c-8fc6-cbf861f9eb2d">
       <img src="https://wakatime.com/badge/user/47623a7b-3423-456c-8fc6-cbf861f9eb2d.svg"/>
     </a>
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=iwandejong"/>
+    </p>
 </p>
 
 <p align='center'>
