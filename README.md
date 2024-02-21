@@ -18,7 +18,9 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />
 
-  Experimenting with and learning lately about Microsoft Azure.
+  <p align='center'>
+    Experimenting with and learning lately about Microsoft Azure.
+  </p>
 </p>
 
 <p align='center'>
