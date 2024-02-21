@@ -13,9 +13,12 @@
   🎨 Some Tools/Framework I like to use<br/><br/>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" />
+
+  Experimenting with and learning lately about Microsoft Azure.
 </p>
 
 <p align='center'>
@@ -40,7 +43,7 @@
 
 <p align='center'>
   Final year Computer Science student at University of Pretoria with interests in Data Science and Statistics<br>
-  Available for small jobs, email me at <a href="mailto:idj.idejong@gmail.com">idj.idejong@gmail.com or</a><br><br>
+  Email me at <a href="mailto:idj.idejong@gmail.com">idj.idejong@gmail.com</a><br><br>
   <a href="https://iwandejong.co.za">
     <img src="https://img.shields.io/badge/iwandejong.co.za-2D42CE"/>
   </a>
