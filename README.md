@@ -44,8 +44,5 @@
   <a href="https://iwandejong.co.za">
     <img src="https://img.shields.io/badge/iwandejong.co.za-2D42CE"/>
   </a>
-  <a href="https://discord.gg/ku4aWcCJes">
-      <img src="https://img.shields.io/badge/PM me on Discord-7289DA"/>
-    </a>
 </p>
 
