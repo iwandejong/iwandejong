@@ -40,7 +40,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwandejong&theme=github_dark"></a>
+  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwandejong&theme=transparent"></a>
 </p>
 
 <p align='center'>
