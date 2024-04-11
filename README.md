@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" />
 
   <p align='center'>
-    Experimenting with and learning lately about Microsoft Azure.
+    Experimenting with and learning lately about Contentful.
   </p>
 </p>
 
