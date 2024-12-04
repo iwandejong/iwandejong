@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 
   <p align='center'>
-    Experimenting with and learning lately about time-series forecasting using ML methods.
+    My current projects involve developing mobile apps with Flutter and optimizing workflows using Airtable. I'm also currently busy with courses in RAG.
   </p>
 </p>
 
@@ -49,9 +49,9 @@
 
 <p align='center'>
   Final year Computer Science student at University of Pretoria with interests in Data Science and Statistics<br>
-  Email me at <a href="mailto:idj.idejong@gmail.com">idj.idejong@gmail.com</a><br><br>
-  <a href="https://iwandejong.co.za">
-    <img src="https://img.shields.io/badge/iwandejong.co.za-2D42CE"/>
+  Email me at <a href="mailto:hello@iwandejong.com">hello@iwandejong.com</a><br><br>
+  <a href="https://iwandejong.com">
+    <img src="https://img.shields.io/badge/iwandejong.com-2D42CE"/>
   </a>
 </p>
 
