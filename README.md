@@ -25,8 +25,7 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 
   <p align='center'>
-    My current projects involve developing mobile apps with Flutter and optimizing workflows using Airtable. I'm also currently busy with courses in RAG.
-  </p>
+     I have a range of clients and projects that span across industries. Examples of those projects include app development in Flutter, laboratory optimisation using Airtable, and IT consulting in both hardware and software.
 </p>
 
 <p align='center'>
@@ -50,7 +49,7 @@
 </p>
 
 <p align='center'>
-  Final year Computer Science student at University of Pretoria with interests in Data Science and Statistics<br>
+  I’m a freelancer who partners with agencies, entrepreneurs, and individuals to create B2C/B2B digital solutions that excels, transforms and converts.<br>
   Email me at <a href="mailto:hello@iwandejong.com">hello@iwandejong.com</a><br><br>
   <a href="https://iwandejong.com">
     <img src="https://img.shields.io/badge/iwandejong.com-2D42CE"/>
