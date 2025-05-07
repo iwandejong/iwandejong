@@ -19,8 +19,8 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badgelogo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badgelogo=shadcnui&logoColor=fff"/>
 
   <p align='center'>
      I have a range of clients and projects that span across industries. Examples of those projects include app development in Flutter, laboratory optimisation using Airtable, and IT consulting in both hardware and software.
